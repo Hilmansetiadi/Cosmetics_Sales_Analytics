@@ -10,7 +10,6 @@ Proyek ini menyediakan analisis end-to-end terhadap performa penjualan produk ko
 
 ## 🔗 Live Interactive Dashboard
 👉 [https://datastudio.google.com/s/nyoqI2uUGYM]
-![Dashboard Screenshot](cossale.png)
 
 ---
 
